@@ -98,7 +98,7 @@ function CreateUser() {
                 </Form.Group>
 
                 <Button variant="primary" type="submit" style={{marginLeft:'50px', width:'220px'}}>
-                    Submit
+                    Register
                 </Button>
             </Form>
 
